@@ -1,0 +1,202 @@
+[
+    {
+        "id_servicio": "1",
+        "descripcion": "Reemplazo de disco duro",
+        "tipo": "Hardware",
+        "precioUnitario": "100",
+        "cantidad": "2",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "2",
+        "descripcion": "Instalación de sistema operativo",
+        "tipo": "Software",
+        "precioUnitario": "80",
+        "cantidad": "25",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "3",
+        "descripcion": "Limpieza de virus y malware",
+        "tipo": "Software",
+        "precioUnitario": "120",
+        "cantidad": "10",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "4",
+        "descripcion": "Reparación de pantalla",
+        "tipo": "Hardware",
+        "precioUnitario": "150",
+        "cantidad": "8",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "5",
+        "descripcion": "Actualización de hardware",
+        "tipo": "Hardware",
+        "precioUnitario": "200",
+        "cantidad": "6",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "6",
+        "descripcion": "Optimización del sistema",
+        "tipo": "Software",
+        "precioUnitario": "90",
+        "cantidad": "8",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "7",
+        "descripcion": "Reparación de puerto USB",
+        "tipo": "Hardware",
+        "precioUnitario": "80",
+        "cantidad": "12",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "8",
+        "descripcion": "Configuración de red",
+        "tipo": "Software",
+        "precioUnitario": "110",
+        "cantidad": "18",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "9",
+        "descripcion": "Reemplazo de teclado",
+        "tipo": "Hardware",
+        "precioUnitario": "70",
+        "cantidad": "25",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "10",
+        "descripcion": "Recuperación de datos",
+        "tipo": "Software",
+        "precioUnitario": "180",
+        "cantidad": "19",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "11",
+        "descripcion": "Reparación de tarjeta madre",
+        "tipo": "Hardware",
+        "precioUnitario": "250",
+        "cantidad": "18",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "12",
+        "descripcion": "Instalación de antivirus",
+        "tipo": "Software",
+        "precioUnitario": "60",
+        "cantidad": "24",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "13",
+        "descripcion": "Actualización de BIOS",
+        "tipo": "Hardware",
+        "precioUnitario": "130",
+        "cantidad": "12",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "14",
+        "descripcion": "Reparación de ventilador",
+        "tipo": "Hardware",
+        "precioUnitario": "85",
+        "cantidad": "15",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "15",
+        "descripcion": "Recableado interno",
+        "tipo": "Hardware",
+        "precioUnitario": "110",
+        "cantidad": "8",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "16",
+        "descripcion": "Actualización de controladores",
+        "tipo": "Software",
+        "precioUnitario": "75",
+        "cantidad": "34",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "17",
+        "descripcion": "Reparación de fuente de poder",
+        "tipo": "Hardware",
+        "precioUnitario": "140",
+        "cantidad": "5",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "18",
+        "descripcion": "Configuración de software especializado",
+        "tipo": "Software",
+        "precioUnitario": "95",
+        "cantidad": "16",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "19",
+        "descripcion": "Limpieza interna de polvo",
+        "tipo": "Hardware",
+        "precioUnitario": "45",
+        "cantidad": "21",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "20",
+        "descripcion": "Optimización de inicio",
+        "tipo": "Software",
+        "precioUnitario": "70",
+        "cantidad": "8",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "21",
+        "descripcion": "Reparación de tarjeta de video",
+        "tipo": "Hardware",
+        "precioUnitario": "180",
+        "cantidad": "12",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "22",
+        "descripcion": "Actualización de memoria RAM",
+        "tipo": "Hardware",
+        "precioUnitario": "120",
+        "cantidad": "6",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "23",
+        "descripcion": "Optimización de software de seguridad",
+        "tipo": "Software",
+        "precioUnitario": "100",
+        "cantidad": "7",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "24",
+        "descripcion": "Reparación de puerto HDMI",
+        "tipo": "Hardware",
+        "precioUnitario": "90",
+        "cantidad": "10",
+        "totalServicio": "0"
+    },
+    {
+        "id_servicio": "25",
+        "descripcion": "Instalación de periféricos",
+        "tipo": "Hardware",
+        "precioUnitario": "65",
+        "cantidad": "2",
+        "totalServicio": "0"
+    }
+]

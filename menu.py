@@ -1,0 +1,3 @@
+from parcial import *
+
+menu()
